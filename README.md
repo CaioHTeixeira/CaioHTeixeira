@@ -1,7 +1,7 @@
 # Olá, eu sou Caio Teixeira
 
 ```c# 
-class Programmer {
+public class Programmer {
 	public void initialize(){}
 }
 ```
