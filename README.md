@@ -8,7 +8,7 @@ class Programmer {
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/caio-henrique-teixeira/" target="_blank"><img align="center" src="https://github.com/CaioHTeixeira/CaioHTeixeira/blob/master/linkedin.png?raw=true" alt="CaioHTeixeira" height="30" width="40" /></a>    
+    <a href="https://www.linkedin.com/in/caio-henrique-teixeira/" target="_blank"><img align="center" src="https://github.com/CaioHTeixeira/CaioHTeixeira/blob/main/linkedin.png?raw=true" alt="CaioHTeixeira" height="30" width="40" /></a>    
 </p>
 
 ---
