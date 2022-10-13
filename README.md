@@ -79,15 +79,14 @@ class Programmer
         <h4 align="left">Medium Skill:</h4>
 	<a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 	<a href="https://stackshare.io/mysql" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-	<a href="https://stackshare.io/microsoft-sql-server" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="40" height="40" /></a>
 	<a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
         <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
 	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
 	<a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-	<a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
         <h4 align="left">Low Skill:</h4>
         <a href="https://stackshare.io/angular-2" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" /></a>
 	<a href="https://stackshare.io/oracle" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
 	<a href="https://stackshare.io/c-sharp" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
 	<a href="https://stackshare.io/dot-net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" /></a>
+	<a href="https://stackshare.io/microsoft-sql-server" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="40" height="40" /></a>
     </p>
